@@ -1,0 +1,12 @@
+input{
+    width: 20%;
+    height: 50px;
+    position: relative;
+    left: 100px;
+}
+img{
+    position: absolute;
+    left: 370px;
+}
+
+
